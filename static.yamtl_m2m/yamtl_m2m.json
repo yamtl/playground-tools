@@ -14,7 +14,7 @@
                                 {"name": "language", "type":"string"}
                 ],
                 "returnType": "text",
-                "path": "https://wcbhwureoe.execute-api.us-east-2.amazonaws.com/Prod/yamtl_m2m"
+                "path": "https://microservices.yamtl.space/Prod/yamtl_m2m"
             }
         ],
 
